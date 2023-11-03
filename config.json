@@ -1,0 +1,37 @@
+{
+  "folders": [
+    { "name": "Final Video" },
+    {
+      "name": "Video Footage",
+      "question": "Select the Cameras used:",
+      "subfolders": [
+        { "name": "Lumix S5IIX", "default": true },
+        { "name": "DJI Action 4", "default": true },
+        { "name": "Nikon Z6" },
+        { "name": "DJI Osmo Pocket" },
+        { "name": "iPhone" }
+      ]
+    },
+    {
+      "name": "Audio Footage",
+      "question": "Select the Audio Recorders used:",
+      "subfolders": [
+        { "name": "Zoom H1n" },
+        { "name": "Zoom F2" },
+        { "name": "iPhone" }
+      ]
+    },
+    {
+      "name": "Assets",
+      "question": "Select the Asset Folder required:",
+      "subfolders": [
+        { "name": "ES Music", "default": true },
+        { "name": "ES SFX", "default": true },
+        { "name": "Thumbnail", "default": true },
+        { "name": "Photos", "default": true },
+        { "name": "Animations", "default": true }
+      ]
+    },
+    { "name": "Archive" }
+  ]
+}
